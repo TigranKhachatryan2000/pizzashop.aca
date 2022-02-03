@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.likeBtn {
+   font-size: 15px;
+   font-family: 'Open Sans', sans-serif;
+   cursor: pointer;
+   margin-left: 20px;
+}
+
+.like {
+    margin-left: 20px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+}
